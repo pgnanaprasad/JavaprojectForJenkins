@@ -21,5 +21,4 @@
     int b[]={44,66,99,77,33,22,55};  
     System.out.println("Second Largest: "+getSecondLargest(a,6));  
     System.out.println("Second Largest: "+getSecondLargest(b,7));  
-    }
-    }  
+    }}  
